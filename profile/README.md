@@ -4,7 +4,7 @@
     <img src="https://github.com/AI-READI/AI-READI-logo/blob/main/logo/png/option2.png?raw=true" alt="Logo" height="200">
 </p>
 
-## Generating data, best practices, and tools to boost future AI-driven research in diabetes 💉
+## 💉 Generating data, best practices, and tools to boost future AI-driven research in diabetes 
 
 * AI-READI is one of the data generation projects of the National Institutes of Health (NIH) funded Bridge2AI Program. 💰
 * The AI-READI project seeks to create and share a flagship ethically-sourced dataset of type 2 diabetes. 💻💊
