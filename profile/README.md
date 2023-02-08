@@ -1,4 +1,4 @@
-# Artificial Intelligence Ready and Equitable Atlas for Diabetes Insights (AI-READI) 🤖📈
+# Artificial Intelligence Ready and Equitable Atlas for Diabetes Insights 🤖📈
 
 <p align="center">
     <img src="https://github.com/AI-READI/AI-READI-logo/blob/main/logo/png/option2.png?raw=true" alt="Logo" height="200">
